@@ -10,7 +10,8 @@ Summary(pl):	Module::Reload::Selective - prze³adowywanie modu³ów Perla w trakcie
 Name:		perl-Module-Reload-Selective
 Version:	1.02
 Release:	2
-License:	GPL/Artistic
+# sa,e as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	27c209d6143b15d036263e31b18f6128
