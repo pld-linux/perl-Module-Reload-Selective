@@ -9,7 +9,7 @@ Summary:	Module::Reload::Selective - reload Perl modules during development
 Summary(pl):	Module::Reload::Selective - prze³adowywanie modu³ów Perla w trakcie pracy
 Name:		perl-Module-Reload-Selective
 Version:	1.02
-Release:	2
+Release:	3
 # sa,e as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
