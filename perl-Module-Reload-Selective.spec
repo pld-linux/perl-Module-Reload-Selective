@@ -1,8 +1,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Module
 %define	pnam	Reload-Sel
-Summary:	Module::Reload::Selective -- Reload perl modules during development.
-Summary(pl):	Module::Reload::Selective -- Prze³aduj modu³ perla w trakcie pracy.
+Summary:	Module::Reload::Selective -- Reload perl modules during development
+Summary(pl):	Module::Reload::Selective -- Prze³aduj modu³ perla w trakcie pracy
 Name:		perl-Module-Reload-Selective
 Version:	1.02
 Release:	1
