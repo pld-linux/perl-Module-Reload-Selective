@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Module
-%define	pnam	Reload-Sel
+%define		pdir	Module
+%define		pnam	Reload-Sel
 Summary:	Module::Reload::Selective - reload Perl modules during development
 Summary(pl):	Module::Reload::Selective - prze³adowywanie modu³ów Perla w trakcie pracy
 Name:		perl-Module-Reload-Selective
