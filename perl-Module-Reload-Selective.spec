@@ -6,7 +6,7 @@
 %define		pdir	Module
 %define		pnam	Reload-Sel
 Summary:	Module::Reload::Selective - reload Perl modules during development
-Summary(pl):	Module::Reload::Selective - prze砤dowywanie modu丑w Perla w trakcie pracy
+Summary(pl.UTF-8):   Module::Reload::Selective - prze艂adowywanie modu艂贸w Perla w trakcie pracy
 Name:		perl-Module-Reload-Selective
 Version:	1.02
 Release:	3
@@ -25,11 +25,11 @@ Utility for module developers to selectively reload needed modules
 and/or conditionally augment @INC with additional, per-developer library
 directories, at development time based on environment variables.
 
-%description -l pl
-Narz阣zie dla tw髍c體 modu丑w, s硊勘ce do wybi髍czego prze砤dowywania
-modu丑w i/lub warunkowego dodawania do @INC dodatkowych, specyficznych
-dla konkretnego developera katalog體 z bibliotekami w trakcie pisania
-programu w oparciu o zmienne 秗odowiskowe.
+%description -l pl.UTF-8
+Narz臋dzie dla tw贸rc贸w modu艂贸w, s艂u偶膮ce do wybi贸rczego prze艂adowywania
+modu艂贸w i/lub warunkowego dodawania do @INC dodatkowych, specyficznych
+dla konkretnego developera katalog贸w z bibliotekami w trakcie pisania
+programu w oparciu o zmienne 艣rodowiskowe.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
