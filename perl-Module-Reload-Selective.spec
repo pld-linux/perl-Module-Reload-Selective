@@ -6,7 +6,7 @@
 %define		pdir	Module
 %define		pnam	Reload-Sel
 Summary:	Module::Reload::Selective - reload Perl modules during development
-Summary(pl.UTF-8):   Module::Reload::Selective - przeładowywanie modułów Perla w trakcie pracy
+Summary(pl.UTF-8):	Module::Reload::Selective - przeładowywanie modułów Perla w trakcie pracy
 Name:		perl-Module-Reload-Selective
 Version:	1.02
 Release:	3
