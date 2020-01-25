@@ -4,7 +4,6 @@
 
 %define		pdir	Module
 %define		pnam	Reload-Sel
-%include	/usr/lib/rpm/macros.perl
 Summary:	Module::Reload::Selective - reload Perl modules during development
 Summary(pl.UTF-8):	Module::Reload::Selective - przeładowywanie modułów Perla w trakcie pracy
 Name:		perl-Module-Reload-Selective
